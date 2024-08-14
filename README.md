@@ -5,5 +5,5 @@ I'm a student at Yenepoya Institute of Technology, specializing in Computer Scie
 Let's connect and explore potential collaborations!
 
 
-![MY GITHUB STATS ; ](https://github-readme-stats.vercel.app/api?username=AbdullahAhmedH&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAhmedH&show_icons=true&bg_color=00000000)
+![MY GITHUB STATS ; ](https://github-readme-stats.vercel.app/api?username=AbdullahAhmedH&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAhmedH&show_icons=true&theme=gruvbox)
